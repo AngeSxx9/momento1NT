@@ -16,9 +16,9 @@ Conjuntos de ejercicios con Python con diferentes escenario donde se implementan
 **Sofia Chomorro**
 ***
 ### Ejecutar:
-`ciclistas.py`  
+python `ciclistas.py`  
  
-`reinacersei.py`
+python `reinacersei.py`
   
-`listas.py`
+python `listas.py`
 
